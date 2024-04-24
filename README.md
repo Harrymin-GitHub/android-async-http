@@ -1,3 +1,14 @@
+(1) 在匿名回调中处理请求结果
+ (2) 在UI线程外进行http请求
+ (3) 文件断点上传
+ (4) 智能重试
+ (5) 默认gzip压缩
+ (6) 支持解析成Json格式
+ (7) 可将Cookies持久化到SharedPreferences 
+
+有点：很简单很实用
+
+缺点：功能比较少， （只是针对的功能不是什么缺点）
 Asynchronous Http Client for Android
 ====================================
 [![Build Status](https://travis-ci.org/android-async-http/android-async-http.png?branch=master)](https://travis-ci.org/android-async-http/android-async-http)
