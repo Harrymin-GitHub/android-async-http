@@ -7,8 +7,8 @@
  (7) 可将Cookies持久化到SharedPreferences 
 
 有点：很简单很实用
-
 缺点：功能比较少， （只是针对的功能不是什么缺点）
+
 Asynchronous Http Client for Android
 ====================================
 [![Build Status](https://travis-ci.org/android-async-http/android-async-http.png?branch=master)](https://travis-ci.org/android-async-http/android-async-http)
